@@ -54,8 +54,6 @@ a:hover {
   <img src="homepage_pic.png" alt="DCA Plot">
 </div>
 
-Mishkan Holdings LLC
-
 Mission and Values:
 
 Why choose us? Our innovative consultancy has made significant impacts on the international community. We are committed to Corporate Social Responsibility (CSR) in the following areas:
