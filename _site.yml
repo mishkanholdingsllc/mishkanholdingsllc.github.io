@@ -5,6 +5,8 @@ navbar:
   left:
     - text: Home
       href: index.html
+    - text: Technical Team
+      href: technical_team.html
 output:
   html_document:
     theme: yeti

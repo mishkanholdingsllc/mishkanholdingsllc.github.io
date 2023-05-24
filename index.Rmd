@@ -50,12 +50,12 @@ a:hover {
 ```
 
 <div class="center">
-  <h2>Mishkin Holdings, LLC</h2>
-  <img src="homepage_pic.png" alt="pic 1">
+  <h2>Mishkan Holdings, LLC</h2>
+  <img src="pics/homepage_pic.png" alt="pic 1">
 </div>
 
 <!-- <div class="center"> -->
-<!--   <h2>Mishkin Holdings, LLC</h2> -->
+<!--   <h2>Mishkan Holdings, LLC</h2> -->
 <!--   <img src="homepage_pic2.png" alt="pic 2"> -->
 <!-- </div> -->
 
@@ -81,6 +81,9 @@ As a privileged innovation partner to the international community, our core valu
 ```
 
 ```{r, render, echo = FALSE, include=FALSE}
+
+  rmarkdown::render("technical_team.Rmd")
+
   # rmarkdown::render("dca-tutorial.Rmd")
   # 
   # rmarkdown::render("dca-tutorial.Rmd",
