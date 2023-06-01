@@ -51,7 +51,7 @@ a:hover {
 
 <div class="center">
   <h2>Mishkan Holdings, LLC</h2>
-  <img src="pics/homepage_pic.png" alt="pic 1">
+  <img src="pics/homepage_pics/homepage_pic.png" alt="pic 1">
 </div>
 
 <!-- <div class="center"> -->
