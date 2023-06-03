@@ -1,6 +1,9 @@
 ---
 title: "MH: Homepage"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 <style>
 .title{
@@ -54,6 +57,8 @@ a:hover {
   <img src="pics/homepage_pics/homepage_pic.png" alt="pic 1">
 </div>
 
+# About Us
+
 <!-- <div class="center"> -->
 <!--   <h2>Mishkan Holdings, LLC</h2> -->
 <!--   <img src="homepage_pic2.png" alt="pic 2"> -->
@@ -61,7 +66,7 @@ a:hover {
 
 Mission and Values:
 
-Why choose us? Our innovative consultancy has made significant impacts on the international community. We are committed to Corporate Social Responsibility (CSR) in the following areas:
+Our innovative consultancy has made significant impacts on the international community. We are committed to Corporate Social Responsibility (CSR) in the following areas:
 
 Being an excellent partner.
 Being a responsible employer.
@@ -74,6 +79,7 @@ Mishkan Holdings LLC has contributed to some of the major high-level events at t
 
 As a privileged innovation partner to the international community, our core value is to better serve our clients. We are a global leader in our field, offering dynamic and innovative consultancy services.
 
+# Recent Events
 
 ```{r setup, include=FALSE}
   knitr::opts_chunk$set(echo = TRUE)
@@ -83,6 +89,11 @@ As a privileged innovation partner to the international community, our core valu
 ```{r, render, echo = FALSE, include=FALSE}
 
   rmarkdown::render("technical_team.Rmd")
+
+  rmarkdown::render("initiatives.Rmd")
+  
+  rmarkdown::render("consultants.Rmd")
+
 
   # rmarkdown::render("dca-tutorial.Rmd")
   # 

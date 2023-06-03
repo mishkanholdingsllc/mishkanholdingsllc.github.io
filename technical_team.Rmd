@@ -1,6 +1,10 @@
 ---
 title: "Technical Team"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 2
 ---
 
 ```{css, echo=FALSE}
@@ -42,69 +46,49 @@ text-decoration: none;
 a:hover {
 text-decoration: underline;
 }
+
+.title {
+  text-align: center;
+}
+
 ```
 
-<div class="left">
-  <h2>UGOJI ADANMA EZE, Esq., PhD, FEGSB</h2>
-  <h3>Founder</h3>
+<div class="center">
+  <h2>Ugoji Adanma Eze, Esq., PhD, FEGSB</h2>
   <img src="pics/technical_team_pics/ugoji_pic.png" alt="ugoji_pic">
+  <h3>Founder</h3>
 </div>
 
-UGOJI ADANMA EZE, Esq., PhD, FEGSB, is the founder of our technical team. With a robust background in law and extensive experience in international affairs, she has made significant contributions across various fields. Ugoji has authored several publications on diverse topics such as human rights, nuclear terrorism, female suicide bombers, cyber security, and the US commitment to refugees. She has served as the Focal Point of the Commission on the Status of Women NGO Women Peace and Security and is actively involved in organizations such as the International Association of Jewish Lawyers and Jurists, the Nigeria Bar Association, and the New York City Bar. Ugoji has spoken at numerous prestigious events, including those at the United Nations and Columbia University. Her expertise and dedication make her a valuable asset to our technical team.
+Ugoji Adanma Eze, Esq., PhD, FEGSB, is the founder of our technical team. With a robust background in law and extensive experience in international affairs, she has made significant contributions across various fields. Ugoji has authored several publications on diverse topics such as human rights, nuclear terrorism, female suicide bombers, cyber security, and the US commitment to refugees. She has served as the Focal Point of the Commission on the Status of Women NGO Women Peace and Security and is actively involved in organizations such as the International Association of Jewish Lawyers and Jurists, the Nigeria Bar Association, and the New York City Bar. Ugoji has spoken at numerous prestigious events, including those at the United Nations and Columbia University. Her expertise and dedication make her a valuable asset to our technical team.
 
-<div class="left">
-  <h2>H.E. Laila Rahhal El Atfani</h2>
-  <h3>PLACEHOLDER DESIGNATION</h3>
-  <img src="pics/technical_team_pics/rahhal.png" alt="rahhal_pic">
-</div>
-
-H.E. Laila Rahhal El Atfani is a renowned professional and entrepreneur known for her impactful work in various fields. She is the President and Founder of Business Gate, the I AM AFRICA platform, and Woman Business Circle. Laila has a strong media presence and is recognized as a Goodwill Ambassador and an International Ambassador of Peace and Tolerance. She holds prestigious positions such as the Head of Protocol and Diplomacy at AACID and WPC, and she's actively involved in organizations like REFAI NGO and MACAN Fuel & Petroleum Trading. Dedicated to empowering women and youth, Laila has served as the President of the Economic Platform, United Youth Circuit, and Women Empowerment and International Relations with Anwour Association in Morocco. She has received numerous commendations for her inspiring leadership and commitment to societal betterment.
-
-<div class="left">
-  <h2>Dr. Rejoice Wodomedzi Foli</h2>
-  <h3>PLACEHOLDER DESIGNATION</h3>
-  <img src="pics/technical_team_pics/foli.png" alt="foli_pic">
-</div>
-
-Dr. Rejoice Wodomedzi Foli is an accomplished professional and CEO of G-WEALTH Consults, an international firm specializing in Capacity Building Project Management Consulting and Corporate Governance. With over 20 years of experience, she currently serves as the Senior Project Manager at Absa Bank Ghana Limited. Dr. Foli holds impressive credentials, including a DBA, M-PHIL, MBA, CH.PMC, CH.BA, M-IOD, and P-EFA, and is a member of esteemed professional associations such as the Women in Finance and Investment Network (WiFIN), APN-AfCTA Policy Network, and Business Engage Club 30 - GMA South Africa. Recognized as an award-winning Role Model Certified Coach, Mentor, and Consultant, she specializes in Change & Project Management, Human Capital Management, Talent Development, and Transformational Leadership. Dr. Foli is driven by her passion to inspire corporate personalities and foster growth with a positive mindset.
-
-<div class="left">
-  <img src="pics/technical_team_pics/porwal_pic.png" alt="porwal_pic">
-  <h2>Shaun Porwal</h2>
-  <h3>PLACEHOLDER DESIGNATION</h3>
-</div>
-
-Shaun Porwal, based in New York, is a Biomedical Data Scientist with a B.E. in Biomedical Engineering from Rutgers University and an M.S. in Biomedical Data Science from Mount Sinai. He currently serves as a Data Analyst and Research Biostatistician at Memorial Sloan Kettering Cancer Center. He brought clinical model evaluation to the Python community by writing the 'dcurves' package based on Decision Curve Analysis, and routinely contributes to statistical sections in urological cancer publications. Shaun has extensive experience from roles at Sema4 and Rutgers University, developing algorithms for time-series gene expression and performing structural variant detection on large data sets. He's proficient in several programming languages, including Python & R, and is multilingual, speaking English, Hindi, Mandarin, and Japanese. Outside of work, Shaun enjoys exploring languages, traveling, and running.
-
-<div class="left">
+<div class="center">
   <h2>Dr. Si Chen</h2>
-  <h3>Member of the Technical Team</h3>
   <img src="pics/technical_team_pics/chen_pic.png" alt="chen_pic">
+  <h3>Marketing And Social Media Analyst, Senior Advisor to Dr. Ugoji A. Eze</h3>
 </div>
 
 Dr. Si Chen is a respected member of our technical team with a rich background in international relations. Her expertise lies in United Nations peacekeeping operations, digital government, and sustainable development. Before joining Mishkan Holdings LLC, she served at the Digital Government Branch, UN Department of Economic and Social Affairs. Dr. Chen holds a Ph.D. in political science from the State University of New York at Buffalo and an LL.B in international relations from Xi’an International Studies University.
 
-<div class="left">
-  <h2>Lucy Tetee Wilson-Kear</h2>
-  <h3>Founder and CEO of The Liberian View</h3>
-  <img src="pics/technical_team_pics/kear_pic.png" alt="wilson-kear_pic">
+<div class="center">
+  <h2>Shaun Porwal</h2>
+  <img src="pics/technical_team_pics/porwal_pic.png" alt="porwal_pic">
+  <h3>Data And Information Analyst</h3>
 </div>
 
-Lucy Tetee Wilson-Kear, founder and CEO of The Liberian View (TLV), advocates for the underprivileged, particularly in Liberia, through diverse activities including women empowerment and electoral education. Lucy, with a robust background in healthcare and community service, has spearheaded initiatives in the Liberian community in the Washington DC Metro Area and made significant contributions to COVID-19 relief efforts in Liberia.
+Shaun Porwal, based in New York, is a Biomedical Data Scientist with a B.E. in Biomedical Engineering from Rutgers University and an M.S. in Biomedical Data Science from Mount Sinai. He currently serves as a Data Analyst and Research Biostatistician at Memorial Sloan Kettering Cancer Center. He brought clinical model evaluation to the Python community by writing the 'dcurves' package based on Decision Curve Analysis, and routinely contributes to statistical sections in urological cancer publications. Shaun has extensive experience from roles at Sema4 and Rutgers University, developing algorithms for time-series gene expression and performing structural variant detection on large data sets. He's proficient in several programming languages, including Python & R, and is multilingual, speaking English, Hindi, Mandarin, and Japanese. Outside of work, Shaun enjoys exploring languages, traveling, and running.
 
-<div class="left">
-  <h2>Ms. Evelyn M'mera Butich</h2>
-  <h3>Lawyer, Consultant, and Researcher</h3>
-  <img src="pics/technical_team_pics/butich_pic.png" alt="butich_pic">
+<div class="center">
+  <h2>H.E. Laila Rahhal El Atfani</h2>
+  <img src="pics/technical_team_pics/rahhal.png" alt="rahhal_pic">
+  <h3>Gender Empowerment And Sustainable Development</h3>
 </div>
 
-Ms. Evelyn M'mera Butich is a multifaceted professional, being a lawyer, consultant, and researcher with degrees in law, economics, political science, and sociology. She focuses on women's involvement in food and political security, digital entrepreneurship, and science education for disadvantaged girls. Additionally, she investigates sexual crimes and anti-human trafficking policies and is a skilled project evaluator.
+H.E. Laila Rahhal El Atfani is a renowned professional and entrepreneur known for her impactful work in various fields. She is the President and Founder of Business Gate, the I AM AFRICA platform, and Woman Business Circle. Laila has a strong media presence and is recognized as a Goodwill Ambassador and an International Ambassador of Peace and Tolerance. She holds prestigious positions such as the Head of Protocol and Diplomacy at AACID and WPC, and she's actively involved in organizations like REFAI NGO and MACAN Fuel & Petroleum Trading. Dedicated to empowering women and youth, Laila has served as the President of the Economic Platform, United Youth Circuit, and Women Empowerment and International Relations with Anwour Association in Morocco. She has received numerous commendations for her inspiring leadership and commitment to societal betterment.
 
-<div class="left">
-  <h2>Noelyne Mensah</h2>
-  <h3>Education, Gender, and Development Consultant</h3>
-  <img src="pics/technical_team_pics/mensah_pic.png" alt="mensah_pic">
+<div class="center">
+  <h2>Pradeep Sapkota</h2>
+  <img src="pics/technical_team_pics/sapkota_pic.png" alt="sapkota_pic">
+  <h3>SDGs, Environmental Sustainability, and Climate Change</h3>
 </div>
 
-Noelyne Mensah is a Consultant dedicated to supporting children with learning disabilities and promoting girls' participation in robotics and coding. She is the founder of iGRED Africa and leader of Quepacity Ghana. Noelyne is a self-published author and active participant in youth activism and human rights advocacy. She is passionate about marginalized communities and enjoys sports and quality time with loved ones.
-
+Datu Pradeep Sapkota is an internationally recognized Youth Activist and Peace Ambassador, adopted as a noble son by The Royal House of Baloi, Philippines. As the Founder/Director of the SUNWay Research and Innovation Center, and the Country Director for ONE WORLD Citizens in the Netherlands, Sapkota leads significant global initiatives. His background includes roles as a computer technician, software programmer, and an Information and Communication Technology trainer. His efforts have garnered numerous awards, including the "International Peace & Humanity Grand Award 2019." His work focuses on gender equality, environmental sustainability, food security, and community development.
