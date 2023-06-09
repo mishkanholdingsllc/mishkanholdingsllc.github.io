@@ -1,7 +1,7 @@
 name: ""
 output_dir: "."
 navbar:
-  title: "Mishkin Holdings LLC"
+  title: "Mishkan Holdings LLC"
   left:
     - text: Home
       href: index.html
