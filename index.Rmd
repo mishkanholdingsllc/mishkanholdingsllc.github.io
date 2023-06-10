@@ -7,110 +7,216 @@ output:
 ---
 <style>
 .title{
-  display: none;
+display: none;
 }
 </style>
 
 ```{css, echo=FALSE}
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  color: #333;
+
+.contact-box {
+position: relative;
+border: 2px solid lightgrey;
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 10px;
+background-color: #f9f9f9;
+display: block;
+width: 100%;
+}
+
+.contact-text h2 {
+margin-bottom: 10px;
+font-size: 1.3em;
+margin-right: 50px;
+font-weight: bold;
+}
+
+.contact-wrapper {
+display: flex;
+}
+
+.contact-text {
+flex-grow: 1;
+}
+
+.year {
+position: absolute;
+top: 10px;
+right: 10px;
+font-weight: bold;
+padding-left: 10px; /* Add left padding to separate the year from the text */
 }
 
 .center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+margin-bottom: 20px;           /* This adds some space below the image */
 }
 
-.center img {
-  max-width: 100%;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
 
-h1 {
-  font-size: 2.5em;
-  margin-bottom: 10px;
+h2 {
+margin-bottom: 10px;
+font-size: 1.3em;
+margin-right: 50px; /* Add right margin to separate the title from the year */
 }
 
 p {
-  font-size: 1.1em;
-  text-align: justify;
-  margin-bottom: 20px;
+margin-bottom: 0;
 }
 
-a {
-  color: #1a73e8;
-  text-decoration: none;
+.about-us-section {
+background-color: #f9f9f9;  /* This adds a background color to the section */
+padding: 20px;              /* This adds some padding around the text */
+border-radius: 10px;        /* This makes the corners of the section rounded */
+margin-top: 20px;           /* This adds some space above the section */
+margin-bottom: 20px;        /* This adds some space below the section */
+font-family: Arial, sans-serif; /* This changes the font of the text */
 }
 
-a:hover {
-  text-decoration: underline;
+
+.about-us-section h2 {
+color: #333;  /* This changes the color of the heading */
+font-size: 1.5em;  /* This changes the size of the heading */
 }
+
+.about-us-section p {
+line-height: 1.6;  /* This changes the space between lines of text */
+}
+
 ```
 
 <div class="center">
-  <h2>Mishkan Holdings, LLC</h2>
-  <img src="pics/homepage_pics/homepage_pic.png" alt="pic 1">
+<img src="pics/homepage_pics/homepage_pic.png" alt="pic 1">
 </div>
 
-# About Us
 
-<!-- <div class="center"> -->
-<!--   <h2>Mishkan Holdings, LLC</h2> -->
-<!--   <img src="homepage_pic2.png" alt="pic 2"> -->
-<!-- </div> -->
 
-Mission and Values:
+# Mission & Values
+<div class="about-us-section">
+<h2>About Us</h2>
+<p>
+At Mishkan Holdings LLC, our mission is to serve our clients by creating and developing high-level forums at the international level. We aim to bring complex projects and ideas to life, boosting our clients' performance with our expertise in diplomacy and international relations.
+</p>
 
-Our innovative consultancy has made significant impacts on the international community. We are committed to Corporate Social Responsibility (CSR) in the following areas:
+<p>
+Our innovative consultancy services have made significant impacts on the international community. Our commitment to Corporate Social Responsibility (CSR) manifests itself in three key areas:
+</p>
 
-Being an excellent partner.
-Being a responsible employer.
-Being a committed player.
-We offer unique and innovative consultancy services where we turn creative ideas into reality. Our mission is to serve our clients by helping them create and develop high-level forums at the international level. We bring complex projects and ideas to life, boosting our clients' performance with our expertise in diplomacy and international relations.
+<ul>
+<li>Being an excellent partner</li>
+<li>Being a responsible employer</li>
+<li>Being a committed player</li>
+</ul>
 
-We highlight important issues at the United Nations Headquarters in New York, bringing them to the attention of a global audience by hosting high-level interactive forums. We transform creative ideas into innovative and informative high-level forums and interactive panel discussions at the United Nations Headquarters.
+<h2>Our Work</h2>
+<p>
+We highlight important issues at the United Nations Headquarters in New York, bringing them to the attention of a global audience through high-level interactive forums. Our team is skilled at transforming creative ideas into innovative and informative high-level forums and interactive panel discussions.
+</p>
 
-Mishkan Holdings LLC has contributed to some of the major high-level events at the United Nations Headquarters in recent years, including "Global Anti-Semitism: A Threat to International Peace and Security", "The Persecution of Christians in the Middle East: A Threat to International Peace and Security", "The Impact of Small Arms and Light Weapons on Women and Girls in Latin America and the Caribbean: Profile in Courageous Women and Girls", and "The Impact of War on Children and Youths in Conflict Zones".
+<p>
+Over the years, we have contributed to major high-level events at the United Nations Headquarters, including:
+</p>
 
+<ul>
+<li>"Global Anti-Semitism: A Threat to International Peace and Security"</li>
+<li>"The Persecution of Christians in the Middle East: A Threat to International Peace and Security"</li>
+<li>"The Impact of Small Arms and Light Weapons on Women and Girls in Latin America and the Caribbean: Profile in Courageous Women and Girls"</li>
+<li>"The Impact of War on Children and Youths in Conflict Zones"</li>
+</ul>
+
+<h2>Our Commitment</h2>
+<p>
 As a privileged innovation partner to the international community, our core value is to better serve our clients. We are a global leader in our field, offering dynamic and innovative consultancy services.
+</p>
+</div>
 
 # Recent Events
 
+<div class="contact-wrapper contact-box">
+<div class="contact-text">
+<h2>Towards Closing the Gender Gap in Science, Technology, and Innovation in Developing Countries</h2>
+<span class="year">2023</span>
+<p>On the margins of the CSW67 in March 2023, Barrister Eze hosted a high level side event with the Permanent Mission of Malawi to the United Nations, Office Of The Special Adviser Of The Secretary General on Africa, International Telecommunications Union and the Commissioner Of International Affairs, New York City’s Office on this topic.</p>
+</div>
+</div>
+
+<div class="contact-wrapper contact-box">
+<div class="contact-text">
+<h2>Food Security Response: Combatting Illicit Financial Flows And Securing Asset Returns For Sustainable Development</h2>
+<span class="year">2022</span>
+<p>As part of the 77th Session of the United Nations General Assembly, Barrister Eze moderated this High Level panel discussion hosted by The African Union, NEPAD, African Peer Review Mechanism, The Government of the Federal Republic of Nigeria and the Economic and Financial Crimes Commission (EFCC).</p>
+</div>
+</div>
+
+<div class="contact-wrapper contact-box">
+<div class="contact-text">
+<h2>Strengthening Resilience And Sustaining Development: A Humanitarian Approach To Leaving No One Behind</h2>
+<span class="year">2022</span>
+<p>On the margins of the 77th Session of the United Nations General Assembly in September 2022, Barrister Eze moderated this High Level panel discussion organized by the Ministry Of Humanitarian Affairs, Disaster Management, and Social Development, Nigeria.</p>
+</div>
+</div>
+
+<div class="contact-wrapper contact-box">
+<div class="contact-text">
+<h2>Building Back Better From The Coronavirus Disease ( COVID19 ) While Advancing The Full Implementation Of The 2030 Agenda For Sustainable Development.</h2>
+<span class="year">2022</span>
+<p>In July 2022, she was a Lead discussant at the United Nations High Level Political Forum On Sustainable Development in this session.</p>
+</div>
+</div>
+
+<div class="contact-wrapper contact-box">
+<div class="contact-text">
+<h2>The Role Of Artificial Intelligence In Achieving Food Security In The Post COVID-19 Era: Investing In A Safe , Nutritious And Climate - Resilient Food System.</h2>
+<span class="year">2021</span>
+<p>On the margins of the 2021 United Nations Food Systems Summit, Barrister Eze hosted a virtual event on Food Insecurity and Artificial Intelligence.</p>
+</div>
+</div>
+
+<div class="contact-wrapper contact-box">
+<div class="contact-text">
+<h2>Building Back Better : Risk- Informed COVID -19 Recovery And Rehabilitation And Strengthening Resilience To Climate Change - Related Disasters In Africa And The Caribbean.</h2>
+<span class="year">2021</span>
+<p>Ugoji Adanma Eze conceptualized and moderated a virtual High Level meeting at the United Nations, New York on this theme.</p>
+</div>
+</div>
+
+<div class="contact-wrapper contact-box">
+<div class="contact-text">
+<h2>Antisemitism: A Threat To International Peace And Security</h2>
+<span class="year">2014</span>
+<p>Barrister Eze hosted an event at the United Nations in response to the emergence of Antisemitism and related intolerance in Europe.</p>
+</div>
+</div>
+
+
 ```{r setup, include=FALSE}
-  knitr::opts_chunk$set(echo = TRUE)
-  options(knitr.duplicate.label = "allow")
+knitr::opts_chunk$set(echo = TRUE)
+options(knitr.duplicate.label = "allow")
 ```
 
 ```{r, render, echo = FALSE, include=FALSE}
 
-  rmarkdown::render("technical_team.Rmd")
+rmarkdown::render("technical_team.Rmd")
 
-  rmarkdown::render("initiatives.Rmd")
-  
-  rmarkdown::render("consultants.Rmd")
+rmarkdown::render("initiatives.Rmd")
+
+rmarkdown::render("consultants.Rmd")
 
 
-  # rmarkdown::render("dca-tutorial.Rmd")
-  # 
-  # rmarkdown::render("dca-tutorial.Rmd",
-  #                  params = list(language = "r"),
-  #                  output_file = "dca-tutorial-r.html")
-  # rmarkdown::render("dca-tutorial.Rmd",
-  #                  params = list(language = "stata"),
-  #                  output_file = "dca-tutorial-stata.html")
-  # rmarkdown::render("dca-tutorial.Rmd",
-  #                  params = list(language = "sas"),
-  #                  output_file = "dca-tutorial-sas.html")
-  # rmarkdown::render("dca-tutorial.Rmd",
-  #                  params = list(language = "python"),
-  #                  output_file = "dca-tutorial-python.html")
-  # rmarkdown::render("literature.Rmd")
-  # rmarkdown::render("resources.Rmd")
+# rmarkdown::render("dca-tutorial.Rmd")
+# 
+# rmarkdown::render("dca-tutorial.Rmd",
+#                  params = list(language = "r"),
+#                  output_file = "dca-tutorial-r.html")
+# rmarkdown::render("dca-tutorial.Rmd",
+#                  params = list(language = "stata"),
+#                  output_file = "dca-tutorial-stata.html")
+# rmarkdown::render("dca-tutorial.Rmd",
+#                  params = list(language = "sas"),
+#                  output_file = "dca-tutorial-sas.html")
+# rmarkdown::render("dca-tutorial.Rmd",
+#                  params = list(language = "python"),
+#                  output_file = "dca-tutorial-python.html")
+# rmarkdown::render("literature.Rmd")
+# rmarkdown::render("resources.Rmd")
 ```
 
 
