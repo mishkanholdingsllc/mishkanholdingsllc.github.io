@@ -1,10 +1,11 @@
 ---
-title: "MH: Homepage"
+title: "Recent Events"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
+
 <style>
 .title{
 display: none;
@@ -71,7 +72,6 @@ margin-bottom: 20px;        /* This adds some space below the section */
 font-family: Arial, sans-serif; /* This changes the font of the text */
 }
 
-
 .about-us-section h2 {
 color: #333;  /* This changes the color of the heading */
 font-size: 1.5em;  /* This changes the size of the heading */
@@ -83,50 +83,15 @@ line-height: 1.6;  /* This changes the space between lines of text */
 
 ```
 
-<div class="center">
-<img src="pics/homepage_pics/homepage_pic.png" alt="pic 1">
-</div>
-
-# Mission & Values
-<div class="about-us-section">
-<h2>About Us</h2>
-<p>
-At Mishkan Holdings LLC, our mission is to serve our clients by creating and developing high-level forums at the international level. We aim to bring complex projects and ideas to life, boosting our clients' performance with our expertise in diplomacy and international relations.
-</p>
-
-<p>
-Our innovative consultancy services have made significant impacts on the international community. Our commitment to Corporate Social Responsibility (CSR) manifests itself in three key areas:
-</p>
-
-<ul>
-<li>Being an excellent partner</li>
-<li>Being a responsible employer</li>
-<li>Being a committed player</li>
-</ul>
-
-<h2>Our Work</h2>
-<p>
-We highlight important issues at the United Nations Headquarters in New York, bringing them to the attention of a global audience through high-level interactive forums. Our team is skilled at transforming creative ideas into innovative and informative high-level forums and interactive panel discussions.
-</p>
-
-<p>
-Over the years, we have contributed to major high-level events at the United Nations Headquarters, including:
-</p>
-
-<ul>
-<li>"Global Anti-Semitism: A Threat to International Peace and Security"</li>
-<li>"The Persecution of Christians in the Middle East: A Threat to International Peace and Security"</li>
-<li>"The Impact of Small Arms and Light Weapons on Women and Girls in Latin America and the Caribbean: Profile in Courageous Women and Girls"</li>
-<li>"The Impact of War on Children and Youths in Conflict Zones"</li>
-</ul>
-
-<h2>Our Commitment</h2>
-<p>
-As a privileged innovation partner to the international community, our core value is to better serve our clients. We are a global leader in our field, offering dynamic and innovative consultancy services.
-</p>
-</div>
-
 # Recent Events
+
+<div class="contact-wrapper contact-box">
+<div class="center">
+<h2>2024 Summit of the Future (<a href="https://twitter.com/undgc_cso/status/1673737596466257920">link</a>)</h2>
+<img src="pics/events/events_1.png" alt="events_1">
+</div>
+</div>
+
 
 <div class="contact-wrapper contact-box">
 <div class="contact-text">
@@ -183,38 +148,5 @@ As a privileged innovation partner to the international community, our core valu
 <p>Barrister Eze hosted an event at the United Nations in response to the emergence of Antisemitism and related intolerance in Europe.</p>
 </div>
 </div>
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-options(knitr.duplicate.label = "allow")
-```
-
-```{r, render, echo = FALSE, include=FALSE}
-
-rmarkdown::render("technical_team.Rmd")
-
-rmarkdown::render("initiatives.Rmd")
-
-rmarkdown::render("consultants.Rmd")
-
-
-# rmarkdown::render("dca-tutorial.Rmd")
-# 
-# rmarkdown::render("dca-tutorial.Rmd",
-#                  params = list(language = "r"),
-#                  output_file = "dca-tutorial-r.html")
-# rmarkdown::render("dca-tutorial.Rmd",
-#                  params = list(language = "stata"),
-#                  output_file = "dca-tutorial-stata.html")
-# rmarkdown::render("dca-tutorial.Rmd",
-#                  params = list(language = "sas"),
-#                  output_file = "dca-tutorial-sas.html")
-# rmarkdown::render("dca-tutorial.Rmd",
-#                  params = list(language = "python"),
-#                  output_file = "dca-tutorial-python.html")
-# rmarkdown::render("literature.Rmd")
-# rmarkdown::render("resources.Rmd")
-```
 
 

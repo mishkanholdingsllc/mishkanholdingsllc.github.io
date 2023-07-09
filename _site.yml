@@ -11,6 +11,8 @@ navbar:
       href: consultants.html
     - text: Ongoing Initiatives
       href: initiatives.html
+    - text: Recent Events
+      href: events.html
 
 output:
   html_document:
