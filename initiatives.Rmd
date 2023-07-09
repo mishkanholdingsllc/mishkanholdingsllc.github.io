@@ -53,9 +53,14 @@ text-decoration: underline;
 
 ```
 
+<div class="center">
+  <h2><a href="https://renewourearth.org/">Renew Our Earth Center of Excellence</a></h2>
+  <img src="pics/initiatives/renew_our_earth_1.png" alt="renew_our_earth_pic_1">
+</div>
 
-Renew Our Earth Center of Excellence
 
-Lome Togo
+<div class="center">
+  <img src="pics/initiatives/renew_our_earth_2.png" alt="renew_our_earth_pic_2">
+</div>
 
 
