@@ -88,10 +88,10 @@ line-height: 1.6;  /* This changes the space between lines of text */
 <div class="contact-wrapper contact-box">
 <div class="center">
 <h2>2024 Summit of the Future (<a href="https://twitter.com/undgc_cso/status/1673737596466257920">link</a>)</h2>
+<span class="year">2023</span>
 <img src="pics/events/events_1.png" alt="events_1">
 </div>
 </div>
-
 
 <div class="contact-wrapper contact-box">
 <div class="contact-text">
