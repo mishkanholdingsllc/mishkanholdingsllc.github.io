@@ -63,14 +63,6 @@ text-decoration: underline;
 Dr. Rejoice Wodomedzi Foli is an accomplished professional and CEO of G-WEALTH Consults, an international firm specializing in Capacity Building Project Management Consulting and Corporate Governance. With over 20 years of experience, she currently serves as the Senior Project Manager at Absa Bank Ghana Limited. Dr. Foli holds impressive credentials, including a DBA, M-PHIL, MBA, CH.PMC, CH.BA, M-IOD, and P-EFA, and is a member of esteemed professional associations such as the Women in Finance and Investment Network (WiFIN), APN-AfCTA Policy Network, and Business Engage Club 30 - GMA South Africa. Recognized as an award-winning Role Model Certified Coach, Mentor, and Consultant, she specializes in Change & Project Management, Human Capital Management, Talent Development, and Transformational Leadership. Dr. Foli is driven by her passion to inspire corporate personalities and foster growth with a positive mindset.
 
 <div class="center">
-  <h2>Lucy Tetee Wilson-Kear</h2>
-  <img src="pics/technical_team_pics/kear_pic.png" alt="wilson-kear_pic">
-  <h3>Founder and CEO of The Liberian View</h3>
-</div>
-
-Lucy Tetee Wilson-Kear, founder and CEO of The Liberian View (TLV), advocates for the underprivileged, particularly in Liberia, through diverse activities including women empowerment and electoral education. Lucy, with a robust background in healthcare and community service, has spearheaded initiatives in the Liberian community in the Washington DC Metro Area and made significant contributions to COVID-19 relief efforts in Liberia.
-
-<div class="center">
   <h2>Evelyn M'mera Butich</h2>
   <h3>Lawyer, Consultant, and Researcher</h3>
   <img src="pics/technical_team_pics/butich_pic.png" alt="butich_pic">
