@@ -70,12 +70,20 @@ Ugoji Adanma Eze, Esq., PhD, FEGSB, is the founder of our technical team. With a
 Dr. Si Chen is a respected member of our technical team with a rich background in international relations. Her expertise lies in United Nations peacekeeping operations, digital government, and sustainable development. Before joining Mishkan Holdings LLC, she served at the Digital Government Branch, UN Department of Economic and Social Affairs. Dr. Chen holds a Ph.D. in political science from the State University of New York at Buffalo and an LL.B in international relations from Xi’an International Studies University.
 
 <div class="center">
-  <h2>Shaun Porwal</h2>
-  <img src="pics/technical_team_pics/porwal_pic.png" alt="porwal_pic">
-  <h3>Data And Information Analyst</h3>
+  <h2>Samuel Ayite Ayivi</h2>
+  <img src="pics/technical_team_pics/ayivi_pic2.png" alt="ayivi_pic2">
+  <h3>Director of Educational and Social Initiatives</h3>
 </div>
 
-Shaun Porwal, based in New York, is a Biomedical Data Scientist with a B.E. in Biomedical Engineering from Rutgers University and an M.S. in Biomedical Data Science from Mount Sinai. He currently serves as a Data Analyst and Research Biostatistician at Memorial Sloan Kettering Cancer Center. He brought clinical model evaluation to the Python community by writing the 'dcurves' package based on Decision Curve Analysis, and routinely contributes to statistical sections in urological cancer publications. Shaun has extensive experience from roles at Sema4 and Rutgers University, developing algorithms for time-series gene expression and performing structural variant detection on large data sets. He's proficient in several programming languages, including Python & R, and is multilingual, speaking English, Hindi, Mandarin, and Japanese. Outside of work, Shaun enjoys exploring languages, traveling, and running.
+Samuel Ayite Ayivi, based in Lome, Togo, is a multi-skilled professional with expertise in computer science, music, and socio-cultural studies. He holds a key position as the Director of Renew Our Earth Center Of Excellence, leading efforts in community resilience against challenges like COVID-19 and climate change. Samuel is committed to empowering women, advocating for children's rights, and championing initiatives in digital entrepreneurship and science education for disadvantaged girls. He is skilled in project evaluation, ensuring the success of community-impactful initiatives. Additionally, Samuel is a Christian musician and balances his life as a husband and father. His diverse capabilities and dedication to societal betterment mark him as a significant leader in technology, social, and environmental sectors.
+
+<!-- <div class="center"> -->
+<!--   <h2>Shaun Porwal</h2> -->
+<!--   <img src="pics/technical_team_pics/porwal_pic.png" alt="porwal_pic"> -->
+<!--   <h3>Data And Information Analyst</h3> -->
+<!-- </div> -->
+
+<!-- Shaun Porwal, based in New York, is a Biomedical Data Scientist with a B.E. in Biomedical Engineering from Rutgers University and an M.S. in Biomedical Data Science from Mount Sinai. He currently serves as a Data Analyst and Research Biostatistician at Memorial Sloan Kettering Cancer Center. He brought clinical model evaluation to the Python community by writing the 'dcurves' package based on Decision Curve Analysis, and routinely contributes to statistical sections in urological cancer publications. Shaun has extensive experience from roles at Sema4 and Rutgers University, developing algorithms for time-series gene expression and performing structural variant detection on large data sets. He's proficient in several programming languages, including Python & R, and is multilingual, speaking English, Hindi, Mandarin, and Japanese. Outside of work, Shaun enjoys exploring languages, traveling, and running. -->
 
 <div class="center">
   <h2>H.E. Laila Rahhal El Atfani</h2>
